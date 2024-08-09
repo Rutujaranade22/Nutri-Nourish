@@ -1,0 +1,78 @@
+.index {
+  background-color: whitesmoke;
+}
+
+.main-container {
+  color: #35042d;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+  background-color: #90b4ce;
+  padding-top: 20px;
+}
+
+.bold {
+  color: #e30d35;
+}
+
+.btn {
+  background-color: #90b4ce;
+  padding: 10px 30px;
+  border-radius: 50px;
+  border: #90b4ce;
+  cursor: pointer;
+  box-shadow: 0 5px 15px rgb(107, 102, 103);
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: rgb(60, 113, 113);
+}
+
+.why-chooseuscontainer {
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
+  color: #35042d;
+}
+
+.cardscontainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  background-color: white;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.card:hover{
+  border-radius: 10px;
+  background-color:#e6e6e6;
+  border: px solid whitesmoke;
+
+ 
+}
+
+.cardimg {
+
+  height: 70px;
+  display: block;
+
+  margin: 10px auto;
+}
+.head{
+  text-align: center;
+  font-style: italic;
+  color: black;
+}
+.headp{
+  color: black;
+  font-style: italic;
+
+}
