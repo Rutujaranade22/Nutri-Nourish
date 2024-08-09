@@ -69,5 +69,11 @@
 .headp{
   color: black;
   font-style: italic;
-
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+  margin-top: 2em;
 }
