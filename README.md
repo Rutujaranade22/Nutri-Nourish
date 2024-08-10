@@ -33,5 +33,4 @@ NutriNourish Food is a website dedicated to providing healthy and nutritious mea
 4. Weight loss meal plan
 
 # Hosted link:-
-[visit our website]
-(https://nutrinourish.netlify.app)
+ (https://nutrinourish.netlify.app)
