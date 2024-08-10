@@ -1,6 +1,8 @@
 # welcome to NutriNourish..
 
-## Introduction:-NutriNourish Food is a website dedicated to providing healthy and nutritious meal options for fitness enthusiasts. The site offers a variety of meal plans and nutritional information to help users maintain a balanced diet that complements their workout routines.
+## Introduction:-
+
+NutriNourish Food is a website dedicated to providing healthy and nutritious meal options for fitness enthusiasts. The site offers a variety of meal plans and nutritional information to help users maintain a balanced diet that complements their workout routines.
 
 # Features:-
 
